@@ -1,0 +1,4 @@
+Cython<3
+# echo "Cython<3" > cython_constraint.txt                                                  ✔  base
+# PIP_CONSTRAINT=cython_constraint.txt pip3 install  "PyYAML<6.0.0,>=5.3.1"
+
